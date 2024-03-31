@@ -44,11 +44,11 @@ nav {
   list-style: none;
   display: flex;
   align-items: center;
-  justify-content: space-around;
+  justify-content: space-evenly;
 }
 
 .link a {
-  font-weight: 250;
+  font-weight: 500;
   color: var(--text-light);
   transition: 0.3s;
 }
